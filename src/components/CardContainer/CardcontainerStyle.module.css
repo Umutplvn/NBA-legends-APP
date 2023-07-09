@@ -1,0 +1,10 @@
+.Cards{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    background-image: url("../../background.jpeg") ;
+    object-fit: cover;
+    background-repeat: repeat;
+    background-size: 100%;
+    height: 100%;
+}
