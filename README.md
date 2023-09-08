@@ -5,7 +5,7 @@
 
 # Project-002: NBA Legends App (RP-02)
 
-# Live at:https://nba-legends-umut.netlify.app/
+## Live at:https://nba-legends-umut.netlify.app/
 
 ## Description
 
